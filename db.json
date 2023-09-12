@@ -1,16 +1,74 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "likes": 208,
+      "title": "Perfect",
+      "img": "/images/divide.jpeg",
+      "album": "Divide",
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "likes": 44,
+      "title": "She",
+      "img": "/images/5.jpeg",
+      "album": "5",
+      "id": 2
+    },
+    {
+      "likes": 40,
+      "title": "Photograph",
+      "img": "/images/multiply.png",
+      "album": "Multiply",
+      "id": 3
+    },
+    {
+      "likes": 157,
+      "title": "Eyes Closed",
+      "img": "/images/subtract.png",
+      "album": "Subtract",
+      "id": 4
+    },
+    {
+      "likes": 146,
+      "title": "Sandman",
+      "img": "/images/equals.png",
+      "album": "Equals",
+      "id": 5
+    },
+    {
+      "likes": 138,
+      "title": "I don't care",
+      "img": "/images/no6.png",
+      "album": "Divide",
+      "id": 6
+    },
+    {
+      "likes": 143,
+      "title": "The A Team",
+      "img": "/images/plus.png",
+      "album": "No.6 Collaboration Project",
+      "id": 7
+    },
+    {
+      "likes": 45,
+      "title": "Barcelona",
+      "img": "/images/divide.jpeg",
+      "album": "Divide",
+      "id": 8
+    },
+    {
+      "likes": 48,
+      "title": "Shape Of You",
+      "img": "/images/divide.jpeg",
+      "album": "Divide",
+      "id": 9
+    },
+    {
+      "likes": 211,
+      "title": "Dusty",
+      "img": "/images/subtract.png",
+      "album": "Divide",
+      "id": 10
     }
   ]
 }
